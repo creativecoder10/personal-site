@@ -1,15 +1,13 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Kumaon University, Dwarahat, Almora - Uttrakhand - India',
+    degree: 'Bachelors in Computer science and engineering',
+    year: 2006,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Great Lakes Institute of Management',
+    degree: 'Post Graduate Diploma in Management',
+    year: 2011,
   },
 ];
 
