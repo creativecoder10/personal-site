@@ -1,15 +1,15 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://deepeshdang.com/",
+  "homepage": "https://creativecoder10.github.io/personal-site/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/creativecoder10/personal-site.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
-    "predeploy": "npm run build && react-snap",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "lint": "eslint src",
@@ -22,7 +22,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.2",
     "@fortawesome/react-fontawesome": "0.1.14",
     "dayjs": "^1.10.4",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "raw.macro": "^0.4.2",
